@@ -1,5 +1,5 @@
 {
-  "name": "user-id-generator",
+  "name": "user_id_generator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "html2canvas": "^1.0.0-alpha.3",
+    "jquery": "^3.6.0",
+    "vue": "^2.6.11",
+    "vue-picture-input": "^2.1.6",
+    "vuetify": "^2.4.9"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
